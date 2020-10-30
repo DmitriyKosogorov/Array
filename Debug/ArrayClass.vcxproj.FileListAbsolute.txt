@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\ArrayClass\Debug\ArrayClass.exe
+C:\Users\User\source\repos\ArrayClass\Debug\ArrayClass.pdb
